@@ -1,0 +1,7 @@
+Einführung in Zero-Knowledge-Proofs (ZK) und Circom
+
+Zero-Knowledge-Proofs (ZK), auf Deutsch Null-Wissen-Beweise, sind ein faszinierender Bereich der Kryptographie. Sie ermöglichen es, die Gültigkeit einer Information zu beweisen, ohne die Information selbst preiszugeben.
+
+Ein einfaches Beispiel: Stell dir vor, du willst jemandem beweisen, dass du das Passwort zu einem Konto kennst – ohne es zu verraten. Mit einem ZK-Proof kannst du genau das tun: du lieferst einen kryptographischen Beweis, dass du das Passwort kennst, ohne es offenlegen zu müssen.
+
+ZK-Proofs werden zunehmend in der Blockchain-Welt eingesetzt, insbesondere im Ethereum-Ökosystem, um Datenschutz, Skalierbarkeit und Effizienz zu verbessern. Anwendungen wie zkRollups fassen Transaktionen außerhalb der Haupt-Blockchain zusammen und beweisen mit einem ZK-Beweis, dass alles korrekt war – das spart Platz und Gas-Kosten.
